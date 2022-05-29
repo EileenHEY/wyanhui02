@@ -76,6 +76,7 @@ body{
 #slide_2:checked ~ .card-2 .content,
 #slide_3:checked ~ .card-3 .content{
     opacity: 1;
+    z-index: 9;
     left: 0;
     transition-delay: 0.3s;
 }
