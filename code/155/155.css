@@ -163,6 +163,7 @@ body{
 }
 .container.success .form{
     opacity: 0;
+    visibility: hidden;
 }
 
 /* 定义动画 */
