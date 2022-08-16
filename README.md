@@ -189,4 +189,4 @@
 179. HTML5+CSS3小实例：悬停放大图片的旅游画廊
 
 #### 赞赏作者
-![image](https://gitee.com/wyanhui02/html_css_demo/blob/master/images/%E8%B5%9E%E8%B5%8F%E4%BD%9C%E8%80%85/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg)
+![image](https://gitee.com/wyanhui02/html_css_demo/raw/master/images/%E8%B5%9E%E8%B5%8F%E4%BD%9C%E8%80%85/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg)
