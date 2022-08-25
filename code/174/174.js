@@ -45,6 +45,7 @@ var Pagination={
     },
     // 绑定页码点击事件，并设置当前页样式
     Bind:function(){
+        // console.log(Pagination)
         var a=Pagination.e.getElementsByTagName('a');
         for(var i=0;i<a.length;i++){
             if(+a[i].innerHTML===Pagination.page){
