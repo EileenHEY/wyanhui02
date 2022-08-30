@@ -190,6 +190,7 @@
 180. HTML5+CSS3+JS小实例：使用L2Dwidget实现二次元卡通看板娘
 181. HTML5+CSS3+JS小实例：Canvas图片滑块拖动验证码
 182. HTML5+CSS3+JS小实例：霁青+翠蓝的Tabbar动画特效
+183. HTML5+CSS3+JS小实例：蜂巢里的小蜜蜂光标特效
 
 #### 赞赏作者
 ![image](https://gitee.com/wyanhui02/html_css_demo/raw/master/images/%E8%B5%9E%E8%B5%8F%E4%BD%9C%E8%80%85/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg)
