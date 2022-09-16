@@ -193,6 +193,7 @@
 183. HTML5+CSS3+JS小实例：蜂巢里的小蜜蜂光标特效
 184. HTML5+CSS3+JS小实例：九宫格图片鼠标移入移出方向感知特效
 185. HTML5+CSS3小实例：纯CSS实现文字组成肖像特效
+186. HTML5+CSS3+JS小实例：数字滑动选择控件
 
 #### 赞赏作者
 ![image](https://gitee.com/wyanhui02/html_css_demo/raw/master/images/%E8%B5%9E%E8%B5%8F%E4%BD%9C%E8%80%85/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg)
